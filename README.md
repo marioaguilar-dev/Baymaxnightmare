@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @Baymaxnightmare
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning CS Web Development
-- 📫 How to reach me aguilarbarahona5@gmail.com
+# Mario Aguilar
 
-<!---
-Baymaxnightmare/Baymaxnightmare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Front-end developer and Computer Information Technology student at CSUN.
+
+I build responsive web interfaces with HTML, CSS, and JavaScript, and I am
+currently learning AWS and software engineering — with experience in Java,
+Python, SQL, and Angular.
+
+## Projects
+
+- **WebGlass** — Multi-page website with a glassmorphism UI
+- **Calc_Project** — Calculator app built with vanilla JavaScript
+- **Login_Form** — Animated login form interface
+
+## Contact
+
+- Email: aguilarbarahona5@gmail.com
+- GitHub: [@marioaguilar-dev](https://github.com/marioaguilar-dev)
